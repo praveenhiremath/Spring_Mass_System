@@ -1,0 +1,13 @@
+1)Number of masses in X Direction=Nx=53
+2)Number of masses in Y Direction=Nx=57
+3)Length in X=Lx=2	
+4)Length in Y=Ly=3
+5)Mass of balls=BMass=5	
+6)KSpring=1
+7)Totaltime=10
+8)Timestep=Dt=2
+9)F_external=20
+
+
+
+   The output data is stored in the file out.dat
